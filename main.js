@@ -142,7 +142,7 @@
 			$("body").append(this.iframe)
 		},
 		run_Auto (ans_json) {
-			this.iframe.src = 'https://ethics-p.moe.edu.tw/exam/'
+			this.iframe.src = 'https://ethics.moe.edu.tw/exam/'
 	
 			let my = this
 			let box = {}
